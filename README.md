@@ -41,7 +41,7 @@ This is a machine learning-based image classification project that identifies di
 
 ```
 
-git clone [https://github.com/SyedSami07/Fruits-Vegetable-Image-Classifications.git](https://github.com/SyedSami07/Fruits-Vegetable-Image-Classifications.git)
+git clone [https://github.com/tufael123/-Fruits-Vegetable-Image-Classifications.git)
 cd "fruit and vegetables img classifications"
 
 ```
